@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: ebcf77eed12f5af40b7892b1245136a1
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 0c0178e6fa914334eb3814870db35fc5
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 765fc695c0a46ef4b9717297616eaa72
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 1e0a67b0a3d929a46a8d089f675508bd
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 96b448a754298a04ab2e7358d0a3b752
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 26ef847c7edb8fe4e99c19312b18eb16
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: ed9afd0e5bf44ee469b15d24b458d250
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 4a626830dec466243905e31216de2fe0
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 750829095b5805d4caa8ce52748c58c3
+  - enabled: 1
+    path: Assets/Scenes/TheEnd.unity
+    guid: 8e0b3e8e5b6189a478b9c7f5a1e0b913
+  - enabled: 0
+    path: Assets/Scenes/SecretNastja.unity
+    guid: f119659993f4df640940d2d0453a71e2
+  - enabled: 0
+    path: Assets/Scenes/SecretMakatya.unity
+    guid: c37e35951b4a6494cbb2d19b79ef530f
+  m_configObjects: {}
